@@ -10,6 +10,7 @@ Selected work:
 
 - [Awesome RAG Frontier](https://github.com/vicfei/Awesome-RAG-Frontier) — RAG frontier tracker; machines refresh on Mondays, humans decide on Mondays
 - [WeKnora](https://github.com/Tencent/WeKnora) — contributor, rank #17
+- [deer-flow](https://github.com/bytedance/deer-flow) — upstream contributor: merged sandbox fix ([PR #6463](https://github.com/bytedance/deer-flow/pull/6463)), bug reports on dev-stack permissions and skill API keys
 - Jev ecosystem experiments — [awesome-jev-prompts](https://github.com/vicfei/awesome-jev-prompts) and siblings: question patterns, calibration notes, pipeline skills
 
 中文：关注 RAG 与知识库的工程落地，WeKnora 贡献者（第 17 位）。
