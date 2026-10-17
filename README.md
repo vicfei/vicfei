@@ -6,13 +6,6 @@ Current project: [Awesome RAG Frontier](https://github.com/vicfei/Awesome-RAG-Fr
 
 Focus areas: RAG in production, knowledge platforms, decision-layer models (Jev / TypeSafe ecosystem), agentic retrieval.
 
-Background:
-
-- 2017–2022 CETC 38th Research Institute (中国电子科技集团公司第38研究所)
-- 2022–2024 Industrial Bank FinTech Research Institute (兴业银行金融科技研究院)
-- 2024–2025 Zhipu AI (智谱)
-- 2025–2026 Ping An Asset Management (平安资管)
-
 Selected work:
 
 - [Awesome RAG Frontier](https://github.com/vicfei/Awesome-RAG-Frontier) — RAG frontier tracker; machines refresh on Mondays, humans decide on Mondays
