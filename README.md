@@ -8,7 +8,7 @@ I build retrieval-augmented systems, and lately most of my time goes to the Jev 
 - [jev-rag-zh-benchmark](https://github.com/vicfei/jev-rag-zh-benchmark) — reproducible Chinese reranking benchmark: Jev Score nDCG@5 0.546 vs BM25 0.413 on T2Reranking hard negatives, pinned model versions (1.13 and 1.14 both measured), full logs — [DOI 10.5281/zenodo.23322277](https://doi.org/10.5281/zenodo.23322277), mirrors on HF & ModelScope
 - [jev-pipeline-skill](https://github.com/vicfei/jev-pipeline-skill) — one workflow for question design: find → fit → draft → lint → spread → threshold → cascade; installs as an agent skill on five channels
 
-In private build: minimind-jev — a minimind-style, from-scratch tiny decision model with a full Chinese tutorial (open the box, not chase SOTA). Also learning embodied AI the honest way on a single 8GB laptop: [robot-learning-journey](https://github.com/vicfei/robot-learning-journey) — imitation learning, quadruped MPC vs RL, VLA fine-tuning, failure notes included.
+In private build: minimind-jev — a minimind-style, from-scratch tiny decision model with a full Chinese tutorial (open the box, not chase SOTA). First checkpoint already out: [cnfeichen/minimind-jev-v0.1](https://huggingface.co/cnfeichen/minimind-jev-v0.1) — a 3-minute trained head, statistically tied with hosted Jev-1.13 on our rerank benchmark. Also learning embodied AI the honest way on a single 8GB laptop: [robot-learning-journey](https://github.com/vicfei/robot-learning-journey) — imitation learning, quadruped MPC vs RL, VLA fine-tuning, failure notes included.
 
 **Selected work**
 
@@ -18,4 +18,4 @@ In private build: minimind-jev — a minimind-style, from-scratch tiny decision 
 
 Focus areas: RAG in production, knowledge platforms, decision-layer models (Jev / TypeSafe ecosystem), agentic retrieval, question design & calibration.
 
-中文：RAG 与知识库的工程落地，WeKnora 贡献者（第 17 位）。现在主线在 Jev 决策模型生态：[问题模式库](https://github.com/vicfei/awesome-jev-prompts)（51 条双语）→ [中文重排基准](https://github.com/vicfei/jev-rag-zh-benchmark)（带 Zenodo DOI）→ [问题设计流水线技能](https://github.com/vicfei/jev-pipeline-skill)；另有一个从零训练小决策模型的中文教程在私下打磨，以及 8GB 笔记本上的具身智能学习笔记（[robot-learning-journey](https://github.com/vicfei/robot-learning-journey)）。
+中文：RAG 与知识库的工程落地，WeKnora 贡献者（第 17 位）。现在主线在 Jev 决策模型生态：[问题模式库](https://github.com/vicfei/awesome-jev-prompts)（51 条双语）→ [中文重排基准](https://github.com/vicfei/jev-rag-zh-benchmark)（带 Zenodo DOI）→ [问题设计流水线技能](https://github.com/vicfei/jev-pipeline-skill)；从零训练小决策模型的中文教程在私下打磨（[首个检查点已发布](https://huggingface.co/cnfeichen/minimind-jev-v0.1)），另有 8GB 笔记本上的具身智能学习笔记（[robot-learning-journey](https://github.com/vicfei/robot-learning-journey)）。
