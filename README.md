@@ -9,12 +9,7 @@ I build retrieval-augmented systems, and lately most of my time goes to the **Je
 ## Featured projects
 
 <p align="center">
-  <a href="https://github.com/vicfei/awesome-jev-prompts">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vicfei&repo=awesome-jev-prompts&bg_color=1B2A4A&title_color=F2B33D&icon_color=F2B33D&text_color=E6EDF3&border_color=2E4166" alt="awesome-jev-prompts repo card">
-  </a>
-  <a href="https://github.com/vicfei/dsh-super-agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vicfei&repo=dsh-super-agent&bg_color=1B2A4A&title_color=F2B33D&icon_color=F2B33D&text_color=E6EDF3&border_color=2E4166" alt="dsh-super-agent repo card">
-  </a>
+  <img src="assets/ecosystem.svg" alt="Ecosystem map: the Jev loop (awesome-jev-prompts → jev-rag-zh-benchmark → jev-pipeline-skill → minimind-jev) plus new lines dsh-super-agent and awesome-ai-quant, anchored by WeKnora rank #17" width="880">
 </p>
 
 - **[awesome-jev-prompts](https://github.com/vicfei/awesome-jev-prompts)** — question patterns, anti-patterns & calibration notes for typed decisions. 63 patterns / 10 categories, bilingual, an Engine Cookbook that runs one question across five engines, a live leaderboard of the 59 ecosystem projects, and a stdlib-only question linter. ![Stars](https://img.shields.io/github/stars/vicfei/awesome-jev-prompts?style=social)
@@ -34,15 +29,6 @@ I build retrieval-augmented systems, and lately most of my time goes to the **Je
 - [deer-flow](https://github.com/bytedance/deer-flow) · [Octop](https://github.com/TencentCloud/Octop) — contributor
 
 Focus areas: RAG in production, knowledge platforms, decision-layer models (Jev / TypeSafe ecosystem), agentic retrieval, question design & calibration — and, newly, AI × quantitative finance.
-
-<p align="center">
-  <a href="https://github.com/vicfei?tab=repositories">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=vicfei&show_icons=true&include_all_commits=true&bg_color=1B2A4A&title_color=F2B33D&icon_color=F2B33D&text_color=E6EDF3&border_color=2E4166" alt="GitHub stats">
-  </a>
-  <a href="https://github.com/vicfei?tab=repositories">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicfei&layout=compact&bg_color=1B2A4A&title_color=F2B33D&text_color=E6EDF3&border_color=2E4166" alt="Top languages">
-  </a>
-</p>
 
 ---
 
