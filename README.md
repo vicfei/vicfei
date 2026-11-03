@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/banner.png" alt="System Two on the left: a lattice-brain weaving in data streams and exhaling ribbons of text into mist. System One on the right: one beam in, one calibrated dial, one threshold, one small agent stepping forward" width="880">
-</p>
-
 I build retrieval-augmented systems, and lately most of my time goes to the **Jev / TypeSafe ecosystem** — decision models that answer typed questions with calibrated probabilities instead of generating text.
 
 ## Featured
