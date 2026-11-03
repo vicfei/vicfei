@@ -39,11 +39,11 @@ Nine years across China's largest social platform and its frontier LLM lab — N
 
 ## Featured
 
-- **[dsh-super-agent](https://github.com/vicfei/dsh-super-agent)** — admission control, observe mode & tickets for **any CLI coding agent**: admission tables, explicit/inferred strength, off → observe → auto, per-ticket worktrees, PR delivery with approval-gated auto-merge, GitHub App identity. Works with `claude` / `codex` / `opencode` / anything. ![Stars](https://img.shields.io/github/stars/vicfei/dsh-super-agent?style=social)
-- **[awesome-jev-prompts](https://github.com/vicfei/awesome-jev-prompts)** — question patterns, anti-patterns & calibration notes for typed decisions: 63 patterns / 10 categories, bilingual, an Engine Cookbook that runs one question across five engines, and a live leaderboard of the ecosystem. ![Stars](https://img.shields.io/github/stars/vicfei/awesome-jev-prompts?style=social)
+- [dsh-super-agent](https://github.com/vicfei/dsh-super-agent) — admission control, observe mode & tickets for **any CLI coding agent**: admission tables, explicit/inferred strength, off → observe → auto, per-ticket worktrees, PR delivery with approval-gated auto-merge, GitHub App identity. Works with `claude` / `codex` / `opencode` / anything. ![Stars](https://img.shields.io/github/stars/vicfei/dsh-super-agent?style=social)
+- [awesome-jev-prompts](https://github.com/vicfei/awesome-jev-prompts) — question patterns, anti-patterns & calibration notes for typed decisions: 63 patterns / 10 categories, bilingual, an Engine Cookbook that runs one question across five engines, and a live leaderboard of the ecosystem. ![Stars](https://img.shields.io/github/stars/vicfei/awesome-jev-prompts?style=social)
 
 Focus areas: agent infrastructure & admission control, RAG in production, knowledge platforms, decision-layer models, question design & calibration.
 
 ---
 
-中文:9 年工程经验——腾讯微信 5 年(NLP 与基础设施),智谱 4 年(LLM 工具链与 Agent 基础设施)。现在主推两个项目:**[dsh-super-agent](https://github.com/vicfei/dsh-super-agent)**(DeepSeek Super-agent 准入控制的独立实现,任意 CLI 编码智能体可用,npm 已发布)与**[awesome-jev-prompts](https://github.com/vicfei/awesome-jev-prompts)**(63 条双语问题模式 + 引擎手册 + 生态排行榜);另为 [WeKnora](https://github.com/Tencent/WeKnora) 贡献者(13 个被合并 PR;2026 年 9 月单月提交与合并双榜第 4)。
+中文:9 年工程经验——腾讯微信 5 年(NLP 与基础设施),智谱 4 年(LLM 工具链与 Agent 基础设施)。现在主推两个项目:[dsh-super-agent](https://github.com/vicfei/dsh-super-agent)(DeepSeek Super-agent 准入控制的独立实现,任意 CLI 编码智能体可用,npm 已发布)与[awesome-jev-prompts](https://github.com/vicfei/awesome-jev-prompts)(63 条双语问题模式 + 引擎手册 + 生态排行榜);另为 [WeKnora](https://github.com/Tencent/WeKnora) 贡献者(13 个被合并 PR;2026 年 9 月单月提交与合并双榜第 4)。
