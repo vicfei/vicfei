@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=Hi,+I'm+vicfei.+I+build+agent+infrastructure+and+LLM+systems." alt="Hi"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&width=600&pause=100000&lines=Hi,+I'm+vicfei.+I+build+LLM+%26+agent+tooling." alt="Hi"/>
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
-    <strong>Currently focused on agent orchestration & admission-control infrastructure.</strong>
+    <strong>Currently focused on agent orchestration & LLM tooling.</strong>
   </p>
   <p>
     <code>📍 Shanghai, China</code>
@@ -30,7 +30,6 @@ Nine years across China's largest social platform and its frontier LLM lab — N
 
 - 🔐 **Author of [dsh-super-agent](https://github.com/vicfei/dsh-super-agent)** — admission control, observe mode & approval-gated auto-merge for **any CLI coding agent**; the independent, executor-agnostic implementation of the DeepSeek Super-agent authorization design ([npm](https://www.npmjs.com/package/@vicfei/dsh-super-agent))
 - 🗺️ **Author of [dsh-plugin-atlas](https://github.com/vicfei/dsh-plugin-atlas)** — a live, daily-refreshed map & ranking of the whole DSH plugin ecosystem
-- 🔌 **Author of [dsh-weknora-ops](https://github.com/vicfei/dsh-weknora-ops)** — the WeKnora write-path DSH plugin (same philosophy: trust is structural, not persuaded)
 - 🏆 **[WeKnora](https://github.com/Tencent/WeKnora) contributor — 13 merged PRs; #4 by both commits and merged PRs in Sep 2026** (Tencent's open-source LLM knowledge platform, 30k+ stars)
 - ✨ Contributor — [deer-flow](https://github.com/bytedance/deer-flow) · [Octop](https://github.com/TencentCloud/Octop)
 
