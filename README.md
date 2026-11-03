@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=Hi,+I'm+vicfei.+AI+Infra+·+Agent+Engineering" alt="Hi"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=Hi,+I'm+vicfei.+I+build+agent+infrastructure+and+LLM+systems." alt="Hi"/>
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
     <strong>Currently focused on agent orchestration & admission-control infrastructure.</strong>
@@ -18,10 +18,10 @@
 
 <p>
 <strong>Zhipu AI (智谱)</strong> — <code>LLM & Agent Engineering</code> — <code>4 yrs · 2022 → Present</code><br/>
-<strong>Tencent · WeChat (微信)</strong> — <code>NLP / AI Algorithms</code> — <code>5 yrs</code><br/>
+<strong>Tencent · WeChat (微信)</strong> — <code>NLP & Infrastructure</code> — <code>5 yrs</code><br/>
 </p>
 
-Nine years across China's largest social platform and its frontier LLM lab — NLP & AI algorithm work at WeChat, then LLM tooling and agent infrastructure at Zhipu (GLM).
+Nine years across China's largest social platform and its frontier LLM lab — NLP & infrastructure at WeChat, then agent infrastructure at Zhipu (GLM).
 
 </td>
 <td valign="top" width="48%">
