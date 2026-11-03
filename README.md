@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=Hi,+I'm+Fei.Chen+(vicfei).+AI+Infra+·+Agent+Engineering" alt="Hi"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=Hi,+I'm+vicfei.+AI+Infra+·+Agent+Engineering" alt="Hi"/>
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
     <strong>Currently focused on agent orchestration & admission-control infrastructure.</strong>
@@ -18,10 +18,10 @@
 
 <p>
 <strong>Zhipu AI (智谱)</strong> — <code>LLM & Agent Engineering</code> — <code>4 yrs · 2022 → Present</code><br/>
-<strong>Tencent · WeChat (微信)</strong> — <code>Backend & Infrastructure</code> — <code>5 yrs</code><br/>
+<strong>Tencent · WeChat (微信)</strong> — <code>NLP / AI Algorithms</code> — <code>5 yrs</code><br/>
 </p>
 
-Nine years across China's largest social platform and its frontier LLM lab — large-scale backend systems at WeChat, then LLM tooling and agent infrastructure at Zhipu (GLM).
+Nine years across China's largest social platform and its frontier LLM lab — NLP & AI algorithm work at WeChat, then LLM tooling and agent infrastructure at Zhipu (GLM).
 
 </td>
 <td valign="top" width="48%">
@@ -42,8 +42,6 @@ Nine years across China's largest social platform and its frontier LLM lab — l
 
 - **[dsh-super-agent](https://github.com/vicfei/dsh-super-agent)** — admission control, observe mode & tickets for **any CLI coding agent**: admission tables, explicit/inferred strength, off → observe → auto, per-ticket worktrees, PR delivery with approval-gated auto-merge, GitHub App identity. Works with `claude` / `codex` / `opencode` / anything. ![Stars](https://img.shields.io/github/stars/vicfei/dsh-super-agent?style=social)
 - **[awesome-jev-prompts](https://github.com/vicfei/awesome-jev-prompts)** — question patterns, anti-patterns & calibration notes for typed decisions: 63 patterns / 10 categories, bilingual, an Engine Cookbook that runs one question across five engines, and a live leaderboard of the ecosystem. ![Stars](https://img.shields.io/github/stars/vicfei/awesome-jev-prompts?style=social)
-
-Also in the loop: [jev-rag-zh-benchmark](https://github.com/vicfei/jev-rag-zh-benchmark) (reproducible Chinese reranking benchmark, [Zenodo DOI](https://doi.org/10.5281/zenodo.23322277)) · [jev-pipeline-skill](https://github.com/vicfei/jev-pipeline-skill) · [minimind-jev](https://github.com/vicfei/minimind-jev) · [awesome-ai-quant](https://github.com/vicfei/awesome-ai-quant) · [Awesome RAG Frontier](https://github.com/vicfei/Awesome-RAG-Frontier)
 
 Focus areas: agent infrastructure & admission control, RAG in production, knowledge platforms, decision-layer models, question design & calibration.
 
