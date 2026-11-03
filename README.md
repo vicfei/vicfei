@@ -47,4 +47,4 @@ Focus areas: agent infrastructure & admission control, RAG in production, knowle
 
 ---
 
-中文：9 年工程经验——腾讯微信 5 年(大规模后端与基础设施)，智谱 4 年(LLM 工具链与 Agent 基础设施)。开源主线:[dsh-super-agent](https://github.com/vicfei/dsh-super-agent)(DeepSeek Super-agent 准入控制的独立实现,任意 CLI 编码智能体可用,npm 已发布)、[dsh-plugin-atlas](https://github.com/vicfei/dsh-plugin-atlas)(DSH 插件生态活地图)、[WeKnora](https://github.com/Tencent/WeKnora) 贡献者(13 个被合并 PR;2026 年 9 月单月提交与合并 PR 双榜第 4)。另有 Jev 决策模型生态:[问题模式库](https://github.com/vicfei/awesome-jev-prompts)(63 条双语 + 引擎手册 + 生态排行榜)。
+中文:9 年工程经验——腾讯微信 5 年(NLP 与基础设施),智谱 4 年(LLM 工具链与 Agent 基础设施)。现在主推两个项目:**[dsh-super-agent](https://github.com/vicfei/dsh-super-agent)**(DeepSeek Super-agent 准入控制的独立实现,任意 CLI 编码智能体可用,npm 已发布)与**[awesome-jev-prompts](https://github.com/vicfei/awesome-jev-prompts)**(63 条双语问题模式 + 引擎手册 + 生态排行榜);另为 [WeKnora](https://github.com/Tencent/WeKnora) 贡献者(13 个被合并 PR;2026 年 9 月单月提交与合并双榜第 4)。
