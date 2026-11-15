@@ -30,7 +30,7 @@ Nine years across China's largest social platform and its frontier LLM lab — N
 
 - 🔐 **Author of [dsh-super-agent](https://github.com/vicfei/dsh-super-agent)** — admission control, observe mode & approval-gated auto-merge for **any CLI coding agent**; the independent, executor-agnostic implementation of the DeepSeek Super-agent authorization design ([npm](https://www.npmjs.com/package/@vicfei/dsh-super-agent))
 - 🗺️ **Author of [dsh-plugin-atlas](https://github.com/vicfei/dsh-plugin-atlas)** — a live, daily-refreshed map & ranking of the whole DSH plugin ecosystem
-- 🏆 **[WeKnora](https://github.com/Tencent/WeKnora) contributor — 13 merged PRs; #4 by both commits and merged PRs in Sep 2026** (Tencent's open-source LLM knowledge platform, 30k+ stars)
+- 🏆 **[WeKnora](https://github.com/Tencent/WeKnora) contributor — 15 merged PRs; #4 by both commits and merged PRs in Sep 2026** (Tencent's open-source LLM knowledge platform, 30k+ stars)
 - ✨ Contributor — [deer-flow](https://github.com/bytedance/deer-flow) · [Octop](https://github.com/TencentCloud/Octop)
 
 </td>
@@ -47,4 +47,4 @@ Focus areas: agent infrastructure & admission control, RAG in production, knowle
 
 ---
 
-中文:9 年工程经验——腾讯微信 5 年(NLP 与基础设施),智谱 4 年(LLM 工具链与 Agent 基础设施)。现在主推三个项目:[dsh-super-agent](https://github.com/vicfei/dsh-super-agent)(DeepSeek Super-agent 准入控制的独立实现,任意 CLI 编码智能体可用,npm 已发布)、[awesome-jev-prompts](https://github.com/vicfei/awesome-jev-prompts)(63 条双语问题模式 + 引擎手册 + 生态排行榜)与 [RoboHarness](https://github.com/vicfei/RoboHarness)($200 级 5 自由度机械臂的事故加固 harness——云 LLM 规划 + 确定性基元执行 + 电流反馈安全层,零训练,已实现真机全自动闭环抓取);另为 [WeKnora](https://github.com/Tencent/WeKnora) 贡献者(13 个被合并 PR;2026 年 9 月单月提交与合并双榜第 4)。
+中文:9 年工程经验——腾讯微信 5 年(NLP 与基础设施),智谱 4 年(LLM 工具链与 Agent 基础设施)。现在主推三个项目:[dsh-super-agent](https://github.com/vicfei/dsh-super-agent)(DeepSeek Super-agent 准入控制的独立实现,任意 CLI 编码智能体可用,npm 已发布)、[awesome-jev-prompts](https://github.com/vicfei/awesome-jev-prompts)(63 条双语问题模式 + 引擎手册 + 生态排行榜)与 [RoboHarness](https://github.com/vicfei/RoboHarness)($200 级 5 自由度机械臂的事故加固 harness——云 LLM 规划 + 确定性基元执行 + 电流反馈安全层,零训练,已实现真机全自动闭环抓取);另为 [WeKnora](https://github.com/Tencent/WeKnora) 贡献者(15 个被合并 PR;2026 年 9 月单月提交与合并双榜第 4)。
