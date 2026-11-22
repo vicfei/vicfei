@@ -12,19 +12,7 @@
 
 <table>
 <tr>
-<td valign="top" width="50%">
-
-#### 💼 Work Experience
-
-<p>
-<strong>Zhipu AI (智谱)</strong> — <code>LLM & Agent Engineering</code> — <code>4 yrs · 2022 → Present</code><br/>
-<strong>Tencent · WeChat (微信)</strong> — <code>NLP & Infrastructure</code> — <code>5 yrs</code><br/>
-</p>
-
-Nine years across China's largest social platform and its frontier LLM lab — NLP & infrastructure at WeChat, then agent infrastructure at Zhipu (GLM).
-
-</td>
-<td valign="top" width="48%">
+<td valign="top" width="100%">
 
 #### 💻 Open Source Experience
 
@@ -46,4 +34,4 @@ Focus areas: agent infrastructure & admission control, RAG in production, knowle
 
 ---
 
-中文:9 年工程经验——腾讯微信 5 年(NLP 与基础设施),智谱 4 年(LLM 工具链与 Agent 基础设施)。现在主推两个项目:[dsh-super-agent](https://github.com/vicfei/dsh-super-agent)(DeepSeek Super-agent 准入控制的独立实现,任意 CLI 编码智能体可用,npm 持续装机)与 [awesome-jev-prompts](https://github.com/vicfei/awesome-jev-prompts)(63 条双语问题模式 + 引擎手册 + 生态排行榜);同时深耕 DeepSeek Harness 生态,插件矩阵 dsh-weknora-ops、dsh-trustquant 等在 npm 持续装机;另为 [WeKnora](https://github.com/Tencent/WeKnora) 贡献者(15 个被合并 PR;2026 年 9 月单月提交与合并双榜第 4)。
+中文:现在主推两个项目:[dsh-super-agent](https://github.com/vicfei/dsh-super-agent)(DeepSeek Super-agent 准入控制的独立实现,任意 CLI 编码智能体可用,npm 持续装机)与 [awesome-jev-prompts](https://github.com/vicfei/awesome-jev-prompts)(63 条双语问题模式 + 引擎手册 + 生态排行榜);同时深耕 DeepSeek Harness 生态,插件矩阵 dsh-weknora-ops、dsh-trustquant 等在 npm 持续装机;另为 [WeKnora](https://github.com/Tencent/WeKnora) 贡献者(15 个被合并 PR;2026 年 9 月单月提交与合并双榜第 4)。
