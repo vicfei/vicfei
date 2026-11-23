@@ -9,4 +9,6 @@ Versioned snapshots of the GitHub profile README (this repo's `README.md`).
 
 | `README-20261123-ecosystem-swap.md` | 2026-11-23 | current — ecosystem projects swapped to top-download set |
 
+| `README-20261123-knowledge-platforms.md` | 2026-11-23 | current — RAG → Knowledge Platforms |
+
 To restore: copy a backup's content into the root `README.md`.
