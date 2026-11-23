@@ -6,7 +6,7 @@
   </p>
   <p>
     <code>📍 Shanghai, China</code>
-    <code>🧭 RAG · DeepSeek Harness Ecosystem · Jev Decision Models</code>
+    <code>🧭 Knowledge Platforms · DeepSeek Harness Ecosystem · Jev Decision Models</code>
   </p>
 </div>
 
