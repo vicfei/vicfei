@@ -19,7 +19,7 @@
 - 🔐 **DeepSeek Harness ecosystem** — [dsh-super-agent](https://github.com/vicfei/dsh-super-agent) (admission control for **any CLI coding agent**) · [dsh-tradingagents](https://github.com/vicfei/dsh-TradingAgents) (multi-agent investment committee with evidence-tagged IC-MEMOs and a self-settling verdict ledger) · [dsh-agentdiary-plugin](https://www.npmjs.com/package/dsh-agentdiary-plugin) (persistent agent diary) · [deepseek-bot](https://pypi.org/project/deepseek-bot/) (PyPI) — live installs: ![dsh-super-agent](https://img.shields.io/npm/dm/@vicfei/dsh-super-agent?label=dsh-super-agent&style=social&color=brightgreen) ![tradingagents](https://img.shields.io/npm/dm/dsh-tradingagents?label=tradingagents&style=social&color=brightgreen) ![agentdiary](https://img.shields.io/npm/dm/dsh-agentdiary-plugin?label=agentdiary&style=social&color=brightgreen) ![deepseek-bot](https://img.shields.io/pypi/dm/deepseek-bot?label=deepseek-bot&style=social&color=brightgreen)
 - 🗺️ **Author of [dsh-plugin-atlas](https://github.com/vicfei/dsh-plugin-atlas)** — a live, daily-refreshed map & ranking of the whole DSH plugin ecosystem
 - 🏆 **[WeKnora](https://github.com/Tencent/WeKnora) contributor — 15 merged PRs; #4 by both commits and merged PRs in Sep 2026** (Tencent's open-source LLM knowledge platform, 30k+ stars)
-- ✨ Contributor — [deer-flow](https://github.com/bytedance/deer-flow) · [Octop](https://github.com/TencentCloud/Octop) · [CubeSandbox](https://github.com/TencentCloud/CubeSandbox) (egress-net boot race, merged into v0.8.1)
+- ✨ Contributor — [deer-flow](https://github.com/bytedance/deer-flow) · [Octop](https://github.com/TencentCloud/Octop) · [CubeSandbox](https://github.com/TencentCloud/CubeSandbox)
 
 </td>
 </tr>
