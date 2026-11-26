@@ -18,7 +18,7 @@
 
 - 🔐 **DeepSeek Harness ecosystem** — [dsh-super-agent](https://github.com/vicfei/dsh-super-agent) (admission control for **any CLI coding agent**) · [dsh-tradingagents](https://github.com/vicfei/dsh-TradingAgents) (multi-agent investment committee with evidence-tagged IC-MEMOs and a self-settling verdict ledger) · [dsh-agentdiary-plugin](https://www.npmjs.com/package/dsh-agentdiary-plugin) (persistent agent diary) · [deepseek-bot](https://pypi.org/project/deepseek-bot/) (PyPI) — live installs: ![dsh-super-agent](https://img.shields.io/npm/dm/@vicfei/dsh-super-agent?label=dsh-super-agent&style=social&color=brightgreen) ![tradingagents](https://img.shields.io/npm/dm/dsh-tradingagents?label=tradingagents&style=social&color=brightgreen) ![agentdiary](https://img.shields.io/npm/dm/dsh-agentdiary-plugin?label=agentdiary&style=social&color=brightgreen) ![deepseek-bot](https://img.shields.io/pypi/dm/deepseek-bot?label=deepseek-bot&style=social&color=brightgreen)
 - 🗺️ **Author of [dsh-plugin-atlas](https://github.com/vicfei/dsh-plugin-atlas)** — a live, daily-refreshed map & ranking of the whole DSH plugin ecosystem
-- 🏆 **[WeKnora](https://github.com/Tencent/WeKnora) contributor — 15 merged PRs; #4 by both commits and merged PRs in Sep 2026** (Tencent's open-source LLM knowledge platform, 30k+ stars)
+- 🏆 **[WeKnora](https://github.com/Tencent/WeKnora) contributor — 23 merged PRs; #4 by both commits and merged PRs in Sep 2026** (Tencent's open-source LLM knowledge platform, 30k+ stars)
 - ✨ Contributor — [deer-flow](https://github.com/bytedance/deer-flow) · [Octop](https://github.com/TencentCloud/Octop) · [CubeSandbox](https://github.com/TencentCloud/CubeSandbox)
 
 </td>
@@ -34,4 +34,4 @@ Focus areas: agent infrastructure & admission control, RAG in production, knowle
 
 ---
 
-中文:现在主推两个项目:[dsh-super-agent](https://github.com/vicfei/dsh-super-agent)(DeepSeek Super-agent 准入控制的独立实现,任意 CLI 编码智能体可用,npm 持续装机)与 [awesome-jev-prompts](https://github.com/vicfei/awesome-jev-prompts)(63 条双语问题模式 + 引擎手册 + 生态排行榜);同时深耕 DeepSeek Harness 生态,插件矩阵 dsh-weknora-ops、dsh-trustquant 等在 npm 持续装机;另为 [WeKnora](https://github.com/Tencent/WeKnora) 贡献者(15 个被合并 PR;2026 年 9 月单月提交与合并双榜第 4)。
+中文:现在主推两个项目:[dsh-super-agent](https://github.com/vicfei/dsh-super-agent)(DeepSeek Super-agent 准入控制的独立实现,任意 CLI 编码智能体可用,npm 持续装机)与 [awesome-jev-prompts](https://github.com/vicfei/awesome-jev-prompts)(63 条双语问题模式 + 引擎手册 + 生态排行榜);同时深耕 DeepSeek Harness 生态,插件矩阵 dsh-weknora-ops、dsh-trustquant 等在 npm 持续装机;另为 [WeKnora](https://github.com/Tencent/WeKnora) 贡献者(23 个被合并 PR;2026 年 9 月单月提交与合并双榜第 4)。
